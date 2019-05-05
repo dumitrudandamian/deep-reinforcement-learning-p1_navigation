@@ -34,3 +34,5 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ## Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with with the Dan's trained agent!  
+
+Follow the instructions in `Reportipynb` to see how the Dan's agent is built, trained and tested!
